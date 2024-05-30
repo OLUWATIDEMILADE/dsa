@@ -110,9 +110,9 @@ def format_matrix(matrix):
 def main():
     try:
         # Directly setting the paths for the input files and output file
-        input_path1 = "C:\\Users\\hp\\Downloads\\dsa\\sparse_matrix\\sample_inputs\\easy_sample_01_1.txt"
-        input_path2 = "C:\\Users\\hp\\Downloads\\dsa\\sparse_matrix\\sample_inputs\\easy_sample_02_1.txt"
-        output_path = "C:\\Users\\hp\\Downloads\\dsa\\sparse_matrix\\sample_inputs\\result.txt"
+        input_path1 = "dsa\\sparse_matrix\\sample_inputs\\easy_sample_01_1.txt"
+        input_path2 = "dsa\\sparse_matrix\\sample_inputs\\easy_sample_02_1.txt"
+        output_path = "dsa\\sparse_matrix\\sample_inputs\\result.txt"
         
         print(f"Reading matrix from {input_path1}")
         print(f"Reading matrix from {input_path2}")
